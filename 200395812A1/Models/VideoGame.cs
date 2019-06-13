@@ -40,14 +40,5 @@ namespace _200395812A1.Models
         [Display(Name = "Review")]
         public string Review { get; set; }
 
-        /*  [Display(Name = "Website")]
-        public string Website { get; set; }
-
-        [Display(Name = "Subject")]
-        public string Subject { get; set; }
-
-        [Display(Name = "Stars")]
-        public string Stars { get; set; }*/
-
     }
 }
