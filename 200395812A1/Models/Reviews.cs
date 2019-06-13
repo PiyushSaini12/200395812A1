@@ -16,6 +16,7 @@ namespace _200395812A1.Models
         public string Subject { get; set; }
         public string Review { get; set; }
         [Range(1, 5)]
+        [Display(Name = "Number Of Stars")]
         public int NumberOfStars { get; set; }
     }
 }
