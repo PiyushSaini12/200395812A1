@@ -22,7 +22,7 @@ namespace _200395812A1.Models
         [Required]
         public string Description { get; set; }
 
-        [Display(Name = "MinimumRequirements")]
+        [Display(Name = "Minimum Requirements")]
         public string MinimumRequirements { get; set; }
 
         [Display(Name = "publisher")]
